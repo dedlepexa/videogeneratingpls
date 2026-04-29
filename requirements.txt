@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+diffusers
+torch
+transformers
+accelerate
+pillow
+imageio
+imageio[ffmpeg]
